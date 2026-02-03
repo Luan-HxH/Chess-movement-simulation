@@ -1,2 +1,2 @@
 # Chess movement simulation
-O programa simula o movimento de peças de xadrez usando os comandos do while e for.
+The program simulates the movement of chess pieces using do-while and for loops.
